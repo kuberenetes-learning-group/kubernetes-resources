@@ -21,3 +21,7 @@ github中属于Kubernetes生态的资源仓库
 ## 调度器
 
 * [GPU share](https://github.com/AliyunContainerService/gpushare-scheduler-extender) : GPU Sharing Scheduler for Kubernetes Cluster
+
+## 包管理工具
+
+* [Helm](https://github.com/helm/helm) : The Kubernetes Package Manager 
