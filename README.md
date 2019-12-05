@@ -25,3 +25,7 @@ github中属于Kubernetes生态的资源仓库
 ## 包管理工具
 
 * [Helm](https://github.com/helm/helm) : The Kubernetes Package Manager 
+
+## 边缘计算
+
+* [Kubeedge](https://github.com/kubeedge/kubeedge) : Kubernetes Native Edge Computing Framework (project under CNCF)
