@@ -16,6 +16,8 @@ github中属于Kubernetes生态的资源仓库
  
 ## Device Plugin
 
+* [NVIDIA GPU](https://github.com/NVIDIA/k8s-device-plugin) : NVIDIA device plugin for Kubernetes
+
 * [GPU share](https://github.com/AliyunContainerService/gpushare-device-plugin) : GPU Sharing Device Plugin for Kubernetes Cluster
 
 ## 调度器
