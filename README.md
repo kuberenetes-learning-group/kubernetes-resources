@@ -10,7 +10,14 @@ github中属于Kubernetes生态的资源仓库
 
 * [Kubeflow](https://github.com/kubeflow/kubeflow) : Machine Learning Toolkit for Kubernetes
 
-## 调度
+## 批处理
 
 * [Volcano](https://github.com/volcano-sh/volcano) : A Kubernetes Native Batch System
  
+## Device Plugin
+
+* [GPU share](https://github.com/AliyunContainerService/gpushare-device-plugin) : GPU Sharing Device Plugin for Kubernetes Cluster
+
+## 调度器
+
+* [GPU share](https://github.com/AliyunContainerService/gpushare-scheduler-extender) : GPU Sharing Scheduler for Kubernetes Cluster
