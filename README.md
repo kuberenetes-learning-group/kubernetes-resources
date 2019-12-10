@@ -28,6 +28,8 @@ github中属于Kubernetes生态的资源仓库
 
 * [Helm](https://github.com/helm/helm) : The Kubernetes Package Manager 
 
+* [Krew](https://github.com/kubernetes-sigs/krew/) : 📦 Package manager for kubectl plugins 
+
 ## 边缘计算
 
 * [Kubeedge](https://github.com/kubeedge/kubeedge) : Kubernetes Native Edge Computing Framework (project under CNCF)
