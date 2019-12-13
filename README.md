@@ -33,3 +33,7 @@ github中属于Kubernetes生态的资源仓库
 ## 边缘计算
 
 * [Kubeedge](https://github.com/kubeedge/kubeedge) : Kubernetes Native Edge Computing Framework (project under CNCF)
+
+## Kubectl插件
+
+* [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) : Show who has RBAC permissions to perform actions on different resources in Kubernetes
